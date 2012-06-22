@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Snapshot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\damon\Pictures\Snapshot Pictures</Value>
+    </Setting>
+    <Setting Name="Hotkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VK_SNAPSHOT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
